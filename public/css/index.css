@@ -1,11 +1,16 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
-	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+	--font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	--font-family-monospace: "Roboto Mono", monospace;
 }
 
 /* Theme colors */
 :root {
+	/* Light Mode Colors */
+	--color-primary: #2196F3; /* Google Material Blue */
+	--color-primary-dark: #1976D2; /* Darker shade of Material Blue */
+	--color-accent: #FF5722; /* Google Material Orange */
+
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
@@ -13,28 +18,32 @@
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
+	--text-color-link: var(--color-primary);
+	--text-color-link-active: var(--color-primary-dark);
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
 }
 
+/* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
-		--color-gray-90: #dad8d8;
+		--color-primary: #2196F3; /* Google Material Blue */
+		--color-primary-dark: #1976D2; /* Darker shade of Material Blue */
+		--color-accent: #FF5722; /* Google Material Orange */
+
+		--color-gray-20: #333;
+		--color-gray-50: #555;
+		--color-gray-90: #888;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: var(--color-primary);
+		--text-color-link-active: var(--color-primary-dark);
+		--text-color-link-visited: #5f6368; /* Google visited link color */
 
-		--background-color: #15202b;
+		--background-color: #121212;
 	}
 }
-
 
 /* Global stylesheet */
 * {
