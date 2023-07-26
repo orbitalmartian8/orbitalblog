@@ -8,7 +8,7 @@
 :root {
 	/* Light Mode Colors */
 	--color-primary: #6200EE; /* Google Material Blue */
-	--color-primary-dark: #1976D2; /* Darker shade of Material Blue */
+	--color-primary-dark: #4100E0; /* Darker shade of Material Blue */
 	--color-accent: #FF5722; /* Google Material Orange */
 
 	--color-gray-20: #e0e0e0;
@@ -29,7 +29,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--color-primary: #6200EE; /* Google Material Blue */
-		--color-primary-dark: #1976D2; /* Darker shade of Material Blue */
+		--color-primary-dark: #4100E0; /* Darker shade of Material Blue */
 		--color-accent: #FF5722; /* Google Material Orange */
 
 		--color-gray-20: #333;
