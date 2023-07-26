@@ -28,3 +28,6 @@ If I miss a video, don't worry, I'll release more, so make sure to subscribe to 
 So now a couple of things about Discord, I have my server on Discord, but I also have a Matrix room, which is a FOSS alternative, and though I could bridge them (link the posts between the two), I have decided not to.
 
 Secondly, I have an art community server on Discord too, called Canvas Companions, if you're an artist, it may be an interest to you to join, so far 3 members including myself. Feel free to pop in if you wish to.
+
+
+<script src="https://utteranc.es/client.js" repo="LinuxGamer/newblog" issue-term="title" label="💬" theme="dark-blue" crossorigin="anonymous" async></script>
