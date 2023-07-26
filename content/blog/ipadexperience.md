@@ -6,7 +6,6 @@ tags:
   - Review
   - iPad
   - Apple
-draft: true
 ---
 
 Hello World!
