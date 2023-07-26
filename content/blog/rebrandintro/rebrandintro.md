@@ -12,3 +12,19 @@ Hello World! I am CJ, as you know already I was previously known online as Linux
 I'm CJ, a dyslexic artist, gamer, writer, programmer and content creator. I love aviation, space, and technology. I create digital paintings, illustrations and pixel art, I make games in both 2D and 3D (mostly using the [Godot Engine](https://godotengine.org/)). I use primarily open source software and advocate for this. I write novels and blog posts/articles about technology news/reviews, art, companion articles to any videos I produce, and anything else I want to put on here.
 
 [New Avatar (Alien creature)]
+
+
+## Important Information
+Now that I've introduced myself, I have a couple of things to say/update you all on.
+
+### Content Schedule
+Firstly, my content schedule, I always make a new schedule and then never stick to it, so here I am making another...
+
+> I plan to release one video either every month or every other month.
+
+If I miss a video, don't worry, I'll release more, so make sure to subscribe to my You and Peertube channels to kepp up-to-date on those uploads.
+
+### Discord
+So now a couple of things about Discord, I have my server on Discord, but I also have a Matrix room, which is a FOSS alternative, and though I could bridge them (link the posts between the two), I have decided not to.
+
+Secondly, I have an art community server on Discord too, called Canvas Companions, if you're an artist, it may be an interest to you to join, so far 3 members including myself. Feel free to pop in if you wish to.
