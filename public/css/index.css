@@ -28,7 +28,7 @@
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-primary: #6200EE; /* Google Material Blue */
+		--color-primary: #235499; /* Google Material Blue */
 		--color-primary-dark: #4100E0; /* Darker shade of Material Blue */
 		--color-accent: #FF5722; /* Google Material Orange */
 
