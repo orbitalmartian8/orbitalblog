@@ -277,3 +277,9 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+/* Custom Classes */
+
+.title {
+	text-align: center;
+}
