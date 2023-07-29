@@ -289,7 +289,5 @@ h2 + .header-anchor {
 }
 
 .avatar {
-	text-align: center;
-	margin: auto;
-	align-items: center;
+	margin-left: 50%;
 }
