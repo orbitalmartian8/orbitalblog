@@ -284,7 +284,12 @@ h2 + .header-anchor {
 	text-align: center;
 }
 
+.title {
+	text-align: center;
+}
+
 .avatar {
+	text-align: center;
 	margin: auto;
 	align-items: center;
 }
