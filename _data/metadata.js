@@ -6,6 +6,6 @@ module.exports = {
 	author: {
 		name: "CJ",
 		email: "linuxgamer@duck.com",
-		url: "https://example.com/about-me/"
+		url: "https://orbitalblog.vercel.com"
 	}
 }
