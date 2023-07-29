@@ -5,8 +5,9 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-<img src="avatar.png">
+<img src="avatar.png" class="avatar">
 <h1 class="title">OrbitalMartian</h1>
+<h1 class="subtitle">Tech blogger</h1>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
