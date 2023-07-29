@@ -298,17 +298,15 @@ h2 + .header-anchor {
 	border-radius: 10px;
 	margin: 10px;
 	padding: 10px;
-	color: #fff;
 	width: 25%;
 }
 
-.footer-button a {
+.footer-button-link a {
 	color: #fff;
 	text-decoration: none;
 }
 
 .footer-button:hover {
 	background-color: #283b6b;
-	color: gray;
 }
 	
