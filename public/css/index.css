@@ -301,6 +301,12 @@ h2 + .header-anchor {
 	width: 25%;
 }
 
+footer-button-link {
+	margin: auto;
+	text-align: center;
+	justify-content: center;
+}
+
 .footer-button-link a {
 	color: #fff;
 	text-decoration: none;
