@@ -25,7 +25,7 @@ Firstly, my content schedule, I always make a new schedule and then never stick 
 If I miss a video, don't worry, I'll release more, so make sure to subscribe to my [YouTube](https://youtube.com/@orbitalmartian8) and [Peertube](https://videos.danksquad.org/c/linuxgamer_channel/videos?c=true&s=3) channels to kepp up-to-date on those uploads.
 
 ### Discord
-So now a couple of things about Discord, I have my server on [Discord](https://discord.gg/C48EGV2R79), but I also have a Matrix room, which is a FOSS alternative, and though I could bridge them (link the posts between the two), I have decided not to.
+So now a couple of things about Discord, I have my server on [Discord](https://discord.gg/C48EGV2R79), but I also have a [Matrix space](https://matrix.to/#/%23orbitalmartian%3Amatrix.org), which is a FOSS alternative, and though I could bridge them (link the posts between the two), I have decided not to.
 
 Secondly, I have an art community server on Discord too, called Canvas Companions, if you're an artist, it may be an interest to you to join, so far 3 members including myself. Feel free to pop in if you wish to.
 
