@@ -7,11 +7,11 @@ numberOfLatestPostsToShow: 10
 ---
 <div class="avatar"><img src="avatar.png"></div>
 <b><h1 class="title">OrbitalMartian</h1></b>
-<h1 class="subtitle">Tech blogger</h1>
+<h2 class="subtitle">Tech blogger</h2>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h3>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h3>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
