@@ -292,3 +292,8 @@ h2 + .header-anchor {
 	margin-left: 50%;
 	margin-right: 50%;
 }
+
+.footer-button {
+	background-color: #405791;
+	border-radius: 10%;
+}
