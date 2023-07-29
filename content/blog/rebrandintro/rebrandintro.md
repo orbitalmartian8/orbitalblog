@@ -29,4 +29,5 @@ So now a couple of things about Discord, I have my server on Discord, but I also
 
 Secondly, I have an art community server on Discord too, called Canvas Companions, if you're an artist, it may be an interest to you to join, so far 3 members including myself. Feel free to pop in if you wish to.
 
-
+## Conclusion
+That's it from me today, make sure to follow all my accounts on platforms, and enjoy the content that I have already published and wait excitedly for new content to come along. BYE!
