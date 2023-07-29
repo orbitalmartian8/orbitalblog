@@ -299,11 +299,13 @@ h2 + .header-anchor {
 	margin: 10px;
 	padding: 10px;
 	color: #fff;
+	width: 25%;
 }
 
 .footer-button a {
 	color: #fff;
 	text-decoration: none;
+}
 
 .footer-button:hover {
 	background-color: #283b6b;
