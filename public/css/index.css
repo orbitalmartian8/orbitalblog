@@ -282,13 +282,9 @@ h2 + .header-anchor {
 
 .title {
 	text-align: center;
-	text-decoration: bold;
-}
-
-.subtitle {
-	size: -10px;
 }
 
 .avatar {
 	margin: auto;
+	align-items: center;
 }
