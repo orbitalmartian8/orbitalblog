@@ -301,6 +301,10 @@ h2 + .header-anchor {
 	color: #fff;
 }
 
+.footer-button a {
+	color: #fff;
+	text-decoration: none;
+
 .footer-button:hover {
 	background-color: #283b6b;
 	color: gray;
