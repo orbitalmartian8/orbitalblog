@@ -4,7 +4,8 @@ description: This is a post about Mastodon and the Fediverse and what they are.
 date: 2023-07-30
 tags:
   - Technology
-  - 
+  - Draft
+  - Fediverse
 ---
 
 Hi all, and welcome to another blog post. Today I'm going to explain a little bit about Mastodon and a generic explanation of the Fediverse as a whole. Mastodon is an interesting software and the Fediverse is a wonderful concept, so without further ado, lets dive straight in!
