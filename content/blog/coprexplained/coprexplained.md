@@ -9,4 +9,4 @@ tags:
   - COPR
 ---
 
-Hello World!
+Hello World! Today I'm going to be explaining an amazing project, that allows users to create a built package for others to easily install on Fedora and other RHEL based Linux distributions.
