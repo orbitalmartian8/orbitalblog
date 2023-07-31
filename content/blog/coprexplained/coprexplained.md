@@ -11,4 +11,4 @@ tags:
 
 Hello World! Today I'm going to be explaining an amazing project, that allows users to create a built package for others to easily install on Fedora and other RHEL based Linux distributions.
 
-Fedora has had it's flaws over the last few years, like the issues surrounding the codec removals, but there is **one** thing they do really well; and that is their automated build system providing a package repository as its output, caled COPR. 
+Fedora has had it's flaws over the last few years, like the issues surrounding the codec removals, but there is **one** thing they do really well; and that is their automated build system providing a package repository as its output, called [COPR](https://copr.fedorainfracloud.org/). COPR (Cool Other Package Repo) is a project maintained by Fedora to make building and managing third party package repositories easier.
