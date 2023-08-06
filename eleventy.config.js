@@ -10,6 +10,12 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
+const embedEverything = require("eleventy-plugin-embed-everything");
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedEverything);
+};
+
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
