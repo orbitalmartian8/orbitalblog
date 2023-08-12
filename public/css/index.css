@@ -7,6 +7,25 @@
 /* Theme colors */
 :root {
 	/* Light Mode Colors */
+
+@media (prefers-color-scheme: dark) {
+	:root {
+	/* Dark Mode Colors */
+	  --color-primary: #E67E80;
+		--color-primary-dark: #543A48;
+		
+	
+
+
+/* Defaults */
+:root {
+	--font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	--font-family-monospace: "Roboto Mono", monospace;
+}
+
+/* Theme colors */
+:root {
+	/* Light Mode Colors */
 	--color-primary: #6200EE; /* Google Material Blue */
 	--color-primary-dark: #3700B3; /* Darker shade of Material Blue */
 	--color-accent: #FF5722; /* Google Material Orange */
