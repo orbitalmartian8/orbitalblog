@@ -8,7 +8,7 @@ tags:
 
 Hello World 👋
 
-I recently got the opportunity to try out [GoToSocial](https://gotosocial.org/) thanks to [Benjamin Hollon](https://fosstodon.org/@benjaminhollon), who spun up an [instance](https://gotosocial.verboseguacamole.com/) purely for testing. I was offered an account which has to be manually created in the database (there is no web frontend for this). The whole process of account setup took about 2-3 minutes, from memory, possibly less, which is much less painless than Mastodon and Pixelfed both of which mostly require the instance admin accepting your request. 
+I recently got the opportunity to try out [GoToSocial](https://gotosocial.org/) thanks to [Benjamin Hollon](https://fosstodon.org/@benjaminhollon), who spun up an [instance](https://gotosocial.verboseguacamole.com/) purely for testing. I was offered an account which has to be manually created in the database (there is no web frontend for this for the moment, it is a planned feature though). The whole process of account setup took about 2-3 minutes, from memory, possibly less, which is much less painless than Mastodon and Pixelfed both of which mostly require the instance admin accepting your request. 
 
 Before we go any further, I am going to explain what GoToSocial is. To quote their [website](https://gotosocial.org/):
 > GoToSocial is an ActivityPub social network server, written in Golang.
@@ -30,4 +30,4 @@ Before we go any further, I am going to explain what GoToSocial is. To quote the
 > Your timeline and your experience are shaped by who you follow and how you interact with people, not by metrics of engagement!
 
 ### My Opinions
-The software itself is so fast and lightweight, it doesn't have a web frontend so doesn't need anything server side for that.
+The software itself is so fast and lightweight, it doesn't have a web frontend so doesn't need anything server side for that. There are features missing, but they are on the roadmap, including some really cool features introduced in the latest release (hashtag support, account notes and [more](https://gts.superseriousbusiness.org/@gotosocial/statuses/01H7JEE1GMEAXPY9C00GZ3FJQ5). The software works with the Mastodon API which means that GoToSocial can be used and logged into from any (or at least most) Mastodon clients.
