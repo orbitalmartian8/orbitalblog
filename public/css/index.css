@@ -29,7 +29,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--color-primary: #E67E80; /* Google Material Blue */
-		--color-primary-dark: #245aa6; /* Darker shade of Material Blue */
+		--color-primary-dark: #543A48; /* Darker shade of Material Blue */
 		--color-accent: #FF5722; /* Google Material Orange */
 
 		--color-gray-20: #333;
