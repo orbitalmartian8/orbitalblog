@@ -34,9 +34,9 @@
 
     --text-color: #D3C6AA;
 		
-		--color-gray-20: #333;
-		--color-gray-50: #555;
-		--color-gray-90: #888;
+		--color-gray-20: #7A8478;
+		--color-gray-50: #859289;
+		--color-gray-90: #9DA9AO;
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: var(--color-primary);
