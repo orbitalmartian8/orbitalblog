@@ -37,7 +37,7 @@ Having just witnessed an update of the instance I'm on, it was a painless proces
 ### Conclusion
 Overall an amazing project, really speedy. I see a bright future for this software, and encourage anyone who fits the niche userbase to watch this project and keep up and maybe once it's in beta or full release check it out, spin up an instance and try it. I'm definitely going to keep using the test instance and see what awesome new features come in future updates.
 
-Anyway that's all from me, a full list of links will be provided down below and if you made it this far, comment down below with a 🐬. Make sure to checkout my socials, available [here](/socials). 
+Anyway that's all from me, a full list of links will be provided down below and if you made it this far, comment down below with a 🐬. Make sure to checkout my socials, available [here](/about/socials/). 
 
 #### Links:
 - [GoToSocial's Official Website](https://gotosocial.org)
@@ -45,3 +45,4 @@ Anyway that's all from me, a full list of links will be provided down below and 
 - [Benjamin's Test Instance](https://gotosocial.verboseguacamole.com/)
 - [GoToSocial's v0.11.0-rc2 Announcement Toot](https://gts.superseriousbusiness.org/@gotosocial/statuses/01H7JEE1GMEAXPY9C00GZ3FJQ5)
 - [Benjamin's Upgrade Toot](https://gotosocial.verboseguacamole.com/@benjamin/statuses/01H7NBGSJGP6NFS71B0CBHCQQ9)
+- [My GoToSocial Account](https://gotosocial.verboseguacamole.com/@orbitalmartian)
