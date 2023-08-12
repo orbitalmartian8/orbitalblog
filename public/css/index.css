@@ -10,7 +10,7 @@
 	--color-primary: #E67E80; /* Google Material Blue */
 	--color-primary-dark: #3700B3; /* Darker shade of Material Blue */
 	--color-accent: #FF5722; /* Google Material Orange */
-
+	
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
@@ -28,10 +28,12 @@
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-primary: #D3C6AA; /* Google Material Blue */
+		--color-primary: #E67E80; /* Google Material Blue */
 		--color-primary-dark: #543A48; /* Darker shade of Material Blue */
 		--color-accent: #FF5722; /* Google Material Orange */
 
+    --text-color: #D3C6AA;
+		
 		--color-gray-20: #333;
 		--color-gray-50: #555;
 		--color-gray-90: #888;
