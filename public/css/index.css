@@ -41,7 +41,7 @@
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: var(--color-primary);
 		--text-color-link-active: var(--color-primary-dark);
-		--text-color-link-visited: #088ea6; /* Google visited link color */
+		--text-color-link-visited: #E69875; /* Google visited link color */
 
 		--background-color: #2D3538;
 	}
