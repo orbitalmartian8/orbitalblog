@@ -31,3 +31,10 @@ Before we go any further, I am going to explain what GoToSocial is. To quote the
 
 ### My Opinions
 The software itself is so fast and lightweight, it doesn't have a web frontend so doesn't need anything server side for that. There are features missing, but they are on the roadmap, including some really cool features introduced in the latest release (hashtag support, account notes and [more](https://gts.superseriousbusiness.org/@gotosocial/statuses/01H7JEE1GMEAXPY9C00GZ3FJQ5). The software works with the Mastodon API which means that GoToSocial can be used and logged into from any (or at least most) Mastodon clients.
+
+Having just witnessed an update of the instance I'm on, it was a painless process and even Benjamin said so on his account in this [post](https://gotosocial.verboseguacamole.com/@benjamin/statuses/01H7NBGSJGP6NFS71B0CBHCQQ9). I am now enjoying the latest features from v0.11.0-rc2. I'll be following the development of this project very closely, as this kind of niche project is something that actually fits my needs. In the long run, I see this as my possible future Fediverse software.
+
+### Conclusion
+Overall an amazing project, really speedy. I see a bright future for this software, and encourage anyone who fits the niche userbase to watch this project and keep up and maybe once it's in beta or full release check it out, spin up an instance and try it. I'm definitely going to keep using the test instance and see what awesome new features come in future updates.
+
+Anyway that's all from me, a full list of links will be provided down below and if you made it this far, comment down below with a 🐬. Make sure to checkout my socials, available [Here](/socials). 
