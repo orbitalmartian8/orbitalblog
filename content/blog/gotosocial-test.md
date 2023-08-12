@@ -1,5 +1,7 @@
 ---
 title: The Better Mastodon? GoToSocial Review
+description: Review of GoToSocial, a lightweight Fediverse software.
+date: 2023-08-12
 tags:
 - Review
 - Fediverse
