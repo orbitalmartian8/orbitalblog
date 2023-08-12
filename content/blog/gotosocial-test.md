@@ -29,3 +29,5 @@ Before we go any further, I am going to explain what GoToSocial is. To quote the
 > 
 > Your timeline and your experience are shaped by who you follow and how you interact with people, not by metrics of engagement!
 
+### My Opinions
+The software itself is so fast and lightweight, it doesn't have a web frontend so doesn't need anything server side for that.
