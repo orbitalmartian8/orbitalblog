@@ -60,7 +60,6 @@ gray2
 	--color-primary: #5e81ac; /* Everforest Green */
 	--color-primary-dark: #4c7080; /* Darker shade of Everforest Green */
 	--color-accent: #bf616a; /* Everforest Red */
-  --color-text: #E67E80;
 	
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
@@ -68,7 +67,7 @@ gray2
 
 	--background-color: #fff;
 
-	--text-color: var(--color-text);
+	--text-color: #D3C6AA;
 	--text-color-link: var(--color-primary);
 	--text-color-link-active: var(--color-primary-dark);
 	--text-color-link-visited: #17050F;
@@ -88,7 +87,7 @@ gray2
 		--color-gray-90: #888;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--color-text: #E67E80;
+		--text-color: #D3C6AA;
 		--text-color-link: var(--color-primary);
 		--text-color-link-active: var(--color-primary-dark);
 		--text-color-link-visited: #088ea6; /* Google visited link color */
