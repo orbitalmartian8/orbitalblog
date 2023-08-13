@@ -40,7 +40,7 @@
 		--text-color: #D5C9AB;
 		--text-color-link: var(--color-primary);
 		--text-color-link-active: var(--color-primary-dark);
-		--text-color-link-visited: #088ea6; /* Google visited link color */
+		--text-color-link-visited: #7C8377; /* Google visited link color */
 
 		--background-color: #2B3339;
 	}
