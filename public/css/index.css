@@ -291,5 +291,7 @@ h2 + .header-anchor {
 
 .avatar {
 	margin: auto;
-	border-radius: 10%;
+	/* border-radius: 10%; */
+	width: 50%;
+	mask: circle;
 }
