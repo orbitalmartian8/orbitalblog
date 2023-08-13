@@ -87,12 +87,12 @@ gray2
 		--color-gray-90: #888;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color: #D3C6AA;
+		--text-color: #D5C9AB;
 		--text-color-link: var(--color-primary);
 		--text-color-link-active: var(--color-primary-dark);
 		--text-color-link-visited: #088ea6; /* Google visited link color */
 
-		--background-color: #2D353B;
+		--background-color: #2B3339;
 	}
 }
 
