@@ -1,53 +1,3 @@
-/* bg_dim
-#232A2E
-bg_red
-#543A48
-red
-#E67E80
-fg
-#D3C6AA
-bgo
-#2D353B
-bg1
-#343F44
-bg2
-#3D484D
-bg_visual bg_yellow bg_green
-#514045
-#4D4C43
-#425047
-orange
-#E69875
-yellow
-#DBBC7F
-green
-#A7C080
-statusline1 statusline2 statusline3
-#A7C080
-# D3C6AA
-#E67E80
-bg3
-#475258
-bg_blue
-#3A515D
-blue
-#7FBBB3
-grayo
-#7A8478
-bg4
-#4F585E
-aqua
-#83C092
-gray1
-#859289
-bg5
-#56635F
-purple
-#D699B6
-gray2
-#9DA9A0
-*/
-
 /* Defaults */
 :root {
 	--font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -57,7 +7,7 @@ gray2
 /* Theme colors */
 :root {
 	/* Light Mode Colors */
-	--color-primary: #5e81ac; /* Everforest Green */
+	--color-primary: #A7C080; /* Everforest Green */
 	--color-primary-dark: #4c7080; /* Darker shade of Everforest Green */
 	--color-accent: #bf616a; /* Everforest Red */
 	
@@ -78,8 +28,8 @@ gray2
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-primary: #a3be8c; /* Everforest Green */
-		--color-primary-dark: #8fbcbb; /* Darker shade of Everforest Green */
+		--color-primary: #A7C080; /* Everforest Green */
+		--color-primary-dark: #323C41; /* Darker shade of Everforest Green */
 		--color-accent: #bf616a; /* Everforest Red */
 
 		--color-gray-20: #333;
