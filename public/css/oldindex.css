@@ -7,20 +7,20 @@
 /* Theme colors */
 :root {
 	/* Light Mode Colors */
-	--color-primary: #A7C080; /* Everforest Green */
-	--color-primary-dark: #4c7080; /* Darker shade of Everforest Green */
-	--color-accent: #bf616a; /* Everforest Red */
+	--color-primary: #E67E80; /* Google Material Blue */
+	--color-primary-dark: #3700B3; /* Darker shade of Material Blue */
+	--color-accent: #FF5722; /* Google Material Orange */
 	
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #343F33;
 
-	--text-color: #D3C6AA;
+	--text-color: var(--color-gray-90);
 	--text-color-link: var(--color-primary);
 	--text-color-link-active: var(--color-primary-dark);
-	--text-color-link-visited: #17050F;
+	--text-color-link-visited: #E69875;
 
 	--syntax-tab-size: 2;
 }
@@ -28,21 +28,22 @@
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-primary: #A7C080; /* Everforest Green */
-		--color-primary-dark: #323C41; /* Darker shade of Everforest Green */
-		--color-accent: #bf616a; /* Everforest Red */
+		--color-primary: #E67E80; /* Google Material Blue */
+		--color-primary-dark: #543A48; /* Darker shade of Material Blue */
+		--color-accent: #FF5722; /* Google Material Orange */
 
-		--color-gray-20: #333;
-		--color-gray-50: #555;
-		--color-gray-90: #888;
+    --text-color: #D3C6AA;
+		
+		--color-gray-20: #7A8478;
+		--color-gray-50: #859289;
+		--color-gray-90: #9DA9AO;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color: #D5C9AB;
 		--text-color-link: var(--color-primary);
 		--text-color-link-active: var(--color-primary-dark);
-		--text-color-link-visited: #7C8377; /* Google visited link color */
+		--text-color-link-visited: #A7CO8O; /* Google visited link color */
 
-		--background-color: #2B3339;
+		--background-color: #2D353B;
 	}
 }
 
@@ -290,14 +291,7 @@ h2 + .header-anchor {
 }
 
 .avatar {
-	/*margin: auto;
-	border-radius: 10%;
-	width: 50%;
-	mask: circle; */
-
-	margin-left: auto;
-	margin-right: auto;
-	width: 120px;
-	height: 120px;
-	border: 0px;
+	margin-left: 50%;
+	margin-right: 50%;
 }
+	
