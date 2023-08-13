@@ -295,7 +295,6 @@ h2 + .header-anchor {
 	width: 50%;
 	mask: circle; */
 
-	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 120px;
