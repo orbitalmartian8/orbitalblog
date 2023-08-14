@@ -301,3 +301,23 @@ h2 + .header-anchor {
 	height: 120px;
 	border: 0px;
 }
+
+.button-style{
+	background-color: rgb(36, 35, 35);
+	color: var(--color-primary);
+	border-radius: 8px;
+	cursor: pointer;
+	padding: 10px;
+	margin: 0px 10px;
+}
+
+.button-style:hover{
+	background-color: var(--color-primary);
+	color: rgb(36, 35, 35);
+}
+
+.footer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
