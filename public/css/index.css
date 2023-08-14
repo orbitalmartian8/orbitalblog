@@ -7,20 +7,20 @@
 /* Theme colors */
 :root {
 	/* Light Mode Colors */
-	--color-primary: #A7C080; /* Everforest Green */
-	--color-primary-dark: #4c7080; /* Darker shade of Everforest Green */
-	--color-accent: #bf616a; /* Everforest Red */
+	--color-primary: #E67E80; /* Google Material Blue */
+	--color-primary-dark: #3700B3; /* Darker shade of Material Blue */
+	--color-accent: #FF5722; /* Google Material Orange */
 	
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #343F33;
 
-	--text-color: #D3C6AA;
+	--text-color: var(--color-gray-90);
 	--text-color-link: var(--color-primary);
 	--text-color-link-active: var(--color-primary-dark);
-	--text-color-link-visited: #17050F;
+	--text-color-link-visited: #E69875;
 
 	--syntax-tab-size: 2;
 }
