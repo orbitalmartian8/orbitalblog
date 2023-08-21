@@ -1,10 +1,9 @@
 ---
- title: Why I Choose FlightGear Over Paid Alternatives?
- draft: false
- tags:
- - Flight Sim
- - Flightgear
- - Review
+title: Why I Choose FlightGear Over Paid Alternatives?
+tags:
+- Flight Sim
+- Flightgear
+- Review
 ---
 
 # Introduction
