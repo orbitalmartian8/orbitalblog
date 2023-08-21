@@ -1,9 +1,5 @@
 ---
 title: Why I Choose FlightGear Over Paid Alternatives?
-tags:
-- Flight Sim
-- Flightgear
-- Review
 ---
 
 # Introduction
