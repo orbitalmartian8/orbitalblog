@@ -9,13 +9,14 @@ eleventyNavigation:
 
 ### Videos
 - [YouTube](https://youtube.com/@orbitalmartian8)
-- [Peertube](https://videos.danksquad.org/c/linuxgamer_channel/)
+- [Peertube](https://peertube.linuxrocks.online/c/orbitalmartian8/videos)
 
 ### Microblogging
 - [Mastodon](https://linuxrocks.online/@orbitalmartian)
 - [GoToSocial](https://gotosocial.verboseguacamole.com/@orbitalmartian)
+- [Mastodon (Alt)](https://cyberplace.social/@orbitalmartian)
 - [Mastodon Art](https://mastodon.art/@orbitalmartian)
 
 ### Blogging
-- [Art Blog](https://dotart.blog/orbitalmartian/)
 - [Blog](https://orbitalblog.vercel.app)
+- [Art Blog](https://dotart.blog/orbitalmartian/)
