@@ -28,7 +28,7 @@
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-primary: #A7C080; /* Everforest Green */
+		--color-primary: #ecf0c1;
 		--color-primary-dark: #323C41; /* Darker shade of Everforest Green */
 		--color-accent: #bf616a; /* Everforest Red */
 
