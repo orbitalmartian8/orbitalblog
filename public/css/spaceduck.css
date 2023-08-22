@@ -1,0 +1,29 @@
+--color-primary: #ecf0c1; /* Everforest Green */
+		--color-primary-dark: #818596; /* Darker shade of Everforest Green */
+		--color-accent: #bf616a; /* Everforest Red */
+
+		--color-gray-20: #333;
+		--color-gray-50: #555;
+		--color-gray-90: #888;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color: #D5C9AB;
+		--text-color-link: var(--color-primary);
+		--text-color-link-active: var(--color-primary-dark);
+		--text-color-link-visited: #7C8377; /* Google visited link color */
+
+		--background-color: #2B3339;
+	}
+
+:root[data-theme="spaceduck"] {
+	--background-color-0: #0f111b;
+	--background-color-1: #1b1c36;
+	--color: #ecf0c1;
+	--color-comments: #818596;
+	--text-highlight-0: #b3a1e6;
+	--text-highlight-1: #5ccc96;
+	--text-highlight-2: #7a5ccc;
+	--text-highlight-3: #ce6f8f;
+	--text-highlight-4: #f2ce00;
+	--text-highlight-5: #00a3cc;
+}
