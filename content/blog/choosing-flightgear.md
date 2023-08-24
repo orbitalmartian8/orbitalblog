@@ -1,11 +1,11 @@
 ---
 title: Why I Choose FlightGear Over Paid Alternatives?
-description: Review of GoToSocial, a lightweight Fediverse software.
-date: 2023-08-12
+description: Review of FlightGear - The Free And Open Source Flight Simulator.
+date: 2023-08-24
 tags:
 - Review
-- Fediverse
-- GoToSocial
+- FlightGear
+- Flight Simulators
 ---
 
 # Introduction
