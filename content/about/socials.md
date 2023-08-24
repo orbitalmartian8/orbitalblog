@@ -12,9 +12,9 @@ eleventyNavigation:
 - [Peertube](https://peertube.linuxrocks.online/c/orbitalmartian8/videos)
 
 ### Microblogging
-- <a rel="me" href="https://cyberplace.social/@orbitalmartian">Mastodon</a>
+- <a rel="me" href="https://linuxrocks.online/@orbitalmartian">Mastodon</a>
 - [GoToSocial](https://gotosocial.verboseguacamole.com/@orbitalmartian)
-- [Mastodon (Alt)](https://linuxrocks.online/@orbitalmartian)
+- [Mastodon (Alt)](https://cyberplace.social/@orbitalmartian)
 - [Mastodon Art](https://mastodon.art/@orbitalmartian)
 
 ### Blogging
