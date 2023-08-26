@@ -2,6 +2,7 @@
 title: Mastowhat?
 description: This is a post about Mastodon and the Fediverse and what they are.
 date: 2023-07-30
+draft: true
 tags:
   - Technology
   - Draft
