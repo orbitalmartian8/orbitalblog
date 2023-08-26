@@ -1,9 +1,11 @@
 ---
 title: Why I Chose To Switch To BSPWM
+date: 26/08/23
+tags:
+ - BSPWM
+ - Linux
 ---
 
-
-# Why I Chose To Switch To BSPWM
 ## Wayland may be the future, but it isn't the present, things are buggy and need a lot of work before they are ready for daily use.
 
 Over my now two years of using Linux, I've used my fair share of Window Managers and Desktop Environments. I've also had plenty of time to tinker with both XOrg and Wayland as my display server, and after a month or 4 running pure Wayland, I'm going back to X, because it runs much smoother and has less crashes and bugs. I have recently started using my Fedora 38 laptop as a gaming rig, I've used many WM/DE over the month or two I've been in this situation, I've used both Wayland and X11 and I had more crashes and experienced more bugs whilst on the Wayland side, than the X11 side. I have used BSPWM before, and it was my main WM for a long while, but I moved away in favour of Hyprland and Sway as Wayland Compositors.
