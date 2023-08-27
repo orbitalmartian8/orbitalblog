@@ -10,7 +10,7 @@ Defaults */
 :root {
 	--font-family: 'monofur', sans-serif;
 	--font-family-monospace; 'monofur', sans-serif;
-
+}
 /* Theme colors */
 :root {
 	--color-gray-20: #e0e0e0;
