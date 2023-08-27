@@ -24,4 +24,9 @@ So I made the jump...
 ### Why BSPWM?
 Remembering back to my time in various WMs over the years I've been on Linux, I rekindled an old flame for BSPWM, it's amazing and my workflow fit into it. My initial thoughts after switching back to BSPWM, was how easy the configuration is and how easy it was to make it work. I fell back in love with the whole thing and started getting my basic setup, all up and running.
 
-Although BSPWM hasn't seen any commits in the master branch since April 5th this year, which to me seems it may have been abandoned, the experience has been stable and super fast. 
+Although BSPWM hasn't seen any commits in the master branch since April 5th this year, which to me seems it may have been abandoned, the experience has been stable and super fast. I've still got some tweaking to do but I'll have it done soon and once it's basically done and stable, I'll push my dotfiles to my [Codeberg dotfiles repo](https://codeberg.org/orbitalmartian/dotfiles).
+
+#### Links:
+- [Wayland](https://wayland.freedesktop.org/)
+- [BSPWM](https://github.com/baskerville/bspwm)
+- [Ny Codeberg Dotfiles Repo](https://codeberg.org/orbitalmartian/dotfiles)
