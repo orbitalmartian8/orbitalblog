@@ -22,4 +22,6 @@ This slow downs have caused me to have moments where the whole system locks up a
 So I made the jump...
 
 ### Why BSPWM?
-Remembering back to my time in various WMs over the years I've been on Linux, I rekindled an old flame for BSPWM, it's amazing and my workflow fit into it.
+Remembering back to my time in various WMs over the years I've been on Linux, I rekindled an old flame for BSPWM, it's amazing and my workflow fit into it. My initial thoughts after switching back to BSPWM, was how easy the configuration is and how easy it was to make it work. I fell back in love with the whole thing and started getting my basic setup, all up and running.
+
+Although BSPWM hasn't seen any commits in the master branch since April 5th this year, which to me seems it may have been abandoned, the experience has been stable and super fast. 
