@@ -1,5 +1,6 @@
 ---
 title: Why I Chose To Switch To BSPWM
+date: 26/08/2023
 ---
 
 ## Wayland may be the future, but it isn't the present, things are buggy and need a lot of work before they are ready for daily use.
