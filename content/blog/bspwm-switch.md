@@ -1,7 +1,7 @@
 ---
 title: Why I Chose To Switch To BSPWM
 description: Wayland may be the future, but it isn't the present, things are buggy and need a lot of work before they are ready for daily use.
-date: 2023-08-26
+date: 2023-08-27
 tags:
  - BSPWM
  - Wayland
@@ -25,6 +25,8 @@ So I made the jump...
 Remembering back to my time in various WMs over the years I've been on Linux, I rekindled an old flame for BSPWM, it's amazing and my workflow fit into it. My initial thoughts after switching back to BSPWM, was how easy the configuration is and how easy it was to make it work. I fell back in love with the whole thing and started getting my basic setup, all up and running.
 
 Although BSPWM hasn't seen any commits in the master branch since April 5th this year, which to me seems it may have been abandoned, the experience has been stable and super fast. I've still got some tweaking to do but I'll have it done soon and once it's basically done and stable, I'll push my dotfiles to my [Codeberg dotfiles repo](https://codeberg.org/orbitalmartian/dotfiles).
+
+Now with my reasons explained and my thoughts pulled out of my brain by the magic of a keyboard, I'm going to sign off for now, I hope you enjoyed this post, I sure enjoyed the inspiration stages for this post so have a great rest of your day, morning, afternoon, evening, or night. If you made it to the end, leave a 🐬 in the comments down below, and let me know your thoughts down below.
 
 #### Links:
 - [Wayland](https://wayland.freedesktop.org/)
